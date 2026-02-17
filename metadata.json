@@ -1,0 +1,7 @@
+{
+  "name": "Olia Cleaning Services - Coventry",
+  "description": "Premium domestic and commercial cleaning services in Coventry featuring a modern glassmorphism design, real-time quote generation, and an AI cleaning consultant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
